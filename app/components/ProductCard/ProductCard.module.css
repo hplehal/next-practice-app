@@ -1,0 +1,43 @@
+.card {
+    padding: 1rem;
+    border: 1px solid #ccc;
+}
+
+/* Tailwind
+padding
+p-
+px-(left right)
+py-(top bottom)
+pt(top)
+pr(right)
+pb (bottom)
+pl (left)'
+
+MARGIN
+m-
+mx-
+my
+mt
+mb
+ml
+mr
+
+TEXT 
+SIZE
+text-xs to text-3xl
+text-base 
+text-sm
+text-lg
+
+COLOR
+text-[color] 
+bg-[color]
+
+THICKNESS
+font-thin
+font-light
+font-normal
+font-medium
+font-bold
+
+*/
